@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+I'm a statistics and data science student at [Universidad Nacional de Colombia]. I'm passionate about finding insights from data and solving real-world problems.
+
+## 📚 My skills and interests
+
+- I have experience in **R**, **Python**, **SQL**, and **Power BI** for data analysis and visualization..
+- I'm interested in **natural language processing**, **computer vision**, **reinforcement learning**, and **deep learning**.
+- I'm also curious about **big data**, **cloud computing**, **blockchain**, and **artificial intelligence ethics**.
+
+
+## 📩 Contact me
+
+If you want to collaborate, learn more about me, or just say hi, feel free to email me 
+- Email: juvanegas@unal.edu.co
+- LinkedIn: [https://www.linkedin.com/in/user](https://www.linkedin.com/in/juan-pablo-vanegas-moreno/)
+
+
 <!--
 **pablovanegas/pablovanegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
