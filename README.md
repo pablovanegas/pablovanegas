@@ -15,6 +15,8 @@ If you want to collaborate, learn more about me, or just say hi, feel free to em
 - Email: juvanegas@unal.edu.co
 - LinkedIn: [https://www.linkedin.com/in/user](https://www.linkedin.com/in/juan-pablo-vanegas-moreno/)
 
+My tutorial hell is public on my linkedin profile 
+
 
 <!--
 **pablovanegas/pablovanegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
