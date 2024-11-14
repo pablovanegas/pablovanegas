@@ -4,8 +4,8 @@ I'm a statistics and data science student at [Universidad Nacional de Colombia].
 
 ## 📚 My skills and interests
 
-- I have experience in **R**, **Python**, **SQL**, and **Power BI** for data analysis and visualization..
-- I'm interested in **natural language processing**, **computer vision**, **reinforcement learning**, and **deep learning**.
+- I have experience in **R**, **Python**, **SQL**, and **Power BI** for data analysis and visualization.
+- I'm interested in **natural language processing**, **computer vision**, **reinforcement learning**, and **deep learning**, everything to take advantage of data
 - I'm also curious about **big data**, **cloud computing**, **blockchain**, and **artificial intelligence ethics**.
 
 
