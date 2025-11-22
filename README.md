@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a statistics and data science student at [Universidad Nacional de Colombia]. I'm passionate about finding insights from data and solving real-world problems.
+I'm a statistics and data science student at Universidad Nacional de Colombia. I'm passionate about finding insights from data and solving real-world problems.
 
 ## 📚 My skills and interests
 
